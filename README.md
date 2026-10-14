@@ -1,0 +1,2 @@
+# Model-Based-Controller-Design-for-a-Nuclear-Plant-Inspection-Robot
+Mathematical Modelling and Model-Based Controller Design for a Nuclear Plant Inspection Robot. It's a simulation of mobile inspection robot and compare two control techniques: PID and SMC. The simulation is developed using Web VPython 3.2, includes a three-dimensional plant environment, robot navigation, monitoring displays, and real-time graphs.
